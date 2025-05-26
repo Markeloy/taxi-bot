@@ -1,0 +1,4 @@
+aiogram==2.25.1
+python-dotenv
+xlsxwriter
+pip==23.3.1
